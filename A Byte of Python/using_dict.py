@@ -1,4 +1,4 @@
-# Имя файла : template.py
+# Имя файла : using_dict.py
 from colorama import init, Back, Fore
 init()
 print(Back.GREEN)
